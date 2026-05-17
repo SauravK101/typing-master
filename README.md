@@ -34,7 +34,7 @@ Make sure you have Node.js and npm (or pnpm/yarn) installed on your system.
 
 1. Clone the repository and navigate to the project directory:
    ```bash
-   cd "Typing Master Game/app"
+   cd "typing-master/app"
    ```
 
 2. Install dependencies:
